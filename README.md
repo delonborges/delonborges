@@ -1,4 +1,4 @@
-My name is Delon Borges. I work as a Automation Test Analyst | QA at Zup Innovation.
+My name is Delon Borges. I work as Automation Test Analyst | QA at Zup Innovation.
 
 ### Analytics ⚙️
 
