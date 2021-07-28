@@ -1,4 +1,4 @@
-My name is Delon Borges. I work as Automation Test Analyst | QA at Zup Innovation.
+My name is Delon Borges. I work as Automation Test Analyst | QA at Sicredi.
 
 ### Analytics ⚙️
 
@@ -7,7 +7,7 @@ My name is Delon Borges. I work as Automation Test Analyst | QA at Zup Innovatio
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=delonborges&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 </p>
 
-### Let's connect? 🤝
+### Network 🤝
 
 <p align="left">
 
