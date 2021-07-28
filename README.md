@@ -1,4 +1,4 @@
-My name is Delon Borges. I work as Automation Test Analyst | QA at Sicredi.
+My name is Delon Borges. I work as Quality Assurance Analyst | QA at Sicredi.
 
 ### Analytics ⚙️
 
