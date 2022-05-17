@@ -1,5 +1,5 @@
 <p align="center">
-  Hi! I'm Delon Borges. I work as Software Quality Engineer at Sicredi.
+  Hi! I'm Delon Borges. I work as a Software Quality Engineer at Sicredi.
 </p>
 
 ___
